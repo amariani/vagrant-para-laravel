@@ -3,6 +3,7 @@
 # Definición de variables
 DOMAIN_ALIAS    ="www.dominio.dev"
 MAX_UPLOAD_SIZE ="10M"
+# Fin Definición de variables
 
 echo "#+#+# Ha comenzando la instalación de los paquetes. #+#+#"
 
